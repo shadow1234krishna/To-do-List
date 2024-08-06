@@ -50,7 +50,7 @@ const Todo = () => {
         
         <div className='flex items-center mt-7 gap-2'>
             <img className='w-8' src={todoicon} alt="" />
-            <h1 className='text-3xl font-semibold'>To-Do-List-Krishna-Migration</h1>
+            <h1 className='text-3xl font-semibold'>Krishna Migration </h1>
         </div>
 
         <div className='flex items-center my-7 bg-grey-200 rounded-full'>
